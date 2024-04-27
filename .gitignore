@@ -1,0 +1,4 @@
+/.vscode/
+/*.exe
+/test_data/*
+!/test_data/result/
